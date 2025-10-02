@@ -1,4 +1,4 @@
-SuperStore Sales Dashboard on Power BI
+**SuperStore Sales Dashboard on Power BI**
 
 Project Overview
 
