@@ -7,7 +7,7 @@ It highlights key sales, profit, customer, and regional performance metrics, hel
 
 This project demonstrates data modeling, DAX calculations, and interactive reporting to support data-driven decision-making.
 
-Features
+**Features**
 
 🔹 Key KPIs: Total Sales, Total Profit, Quantity Sold, and Avg. Delivery Time
 
@@ -25,7 +25,7 @@ Features
 
 ⚡ Interactive Filters & Slicers: Drill-down by region, category, and time period
 
-Dataset
+**Dataset**
 
 The dashboard uses the SuperStore_Sales_Dataset.csv
  file as the data source.
@@ -39,7 +39,7 @@ Sales, Profit, Quantity, Discount
 
 Customer Segment, Payment Mode, Ship Mode
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 Power BI Desktop – for data modeling, visualization, and KPIs
 
@@ -49,7 +49,7 @@ DAX (Data Analysis Expressions) – for custom calculations and measures
 
 CSV Dataset – as the primary data source
 
-📊 Dashboard Highlights
+**📊 Dashboard Highlights**
 
 KPI Cards: At-a-glance metrics for sales, profit, quantity, and delivery time.
 
